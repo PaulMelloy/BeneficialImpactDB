@@ -22,3 +22,8 @@ Anyone can fork the branches and make their own version on a feature branch.
 However:  
  - The `main` branch is reserved as a version with accurate data verified impact scores and is peer-reviewed by repository contributors and the wider community through discussion in issues and pull requests
  - The `dev` branch is reserved as a version with accurate data verified impact scores and is peer-reviewed by repository contributors, but not yet discussed with the wider community through discussion in issues and pull requests.
+
+## Sources of information
+ - https://www.insidecotton.com/sites/default/files/article-files/Cotton_Pest_Management_Guide_2021_LR.pdf  
+ - https://www.agpest.com.au/beneficials-chemical-toxicity-table
+ - https://doi.org/10.4225/08/58986fd5e38f2  
